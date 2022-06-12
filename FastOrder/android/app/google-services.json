@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313210707202",
+    "project_id": "fastorderu",
+    "storage_bucket": "fastorderu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313210707202:android:fcb8d6c229047db0bab61b",
+        "android_client_info": {
+          "package_name": "com.example.zarda_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313210707202-18gil1febvfghsmbt7apbfnnk2k03mug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9lnKYyAa4irwTgLNafJ46_O4d7oONQsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313210707202-18gil1febvfghsmbt7apbfnnk2k03mug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
